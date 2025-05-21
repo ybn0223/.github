@@ -1,5 +1,3 @@
-# .github
-<!-- Banner (Optional) -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d3b50&height=200&section=header&text=Yassine%20Benmendour&fontSize=40&fontColor=ffffff" alt="Yassine's Banner" />
 </p>
@@ -11,7 +9,7 @@
   <a href="https://yassinedev-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-yellow?style=for-the-badge&logo=vercel" alt="Portfolio Badge"/>
   </a>
-  <a href="mailto:yassine@example.com">
+  <a href="mailto:yassineben-2004@hotmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail" alt="Email Badge"/>
   </a>
 </p>
@@ -23,7 +21,6 @@
 - 🔭 Currently studying Computer Programming at Artesis Plantijn University  
 - 🌱 I’m exploring full-stack development with **React Native**, **.NET**, and **TypeScript**  
 - 🚀 Passionate about clean UI, efficient code, and motorcycles 🏍️  
-- 🧳 Dreaming of biking from Belgium to Japan one day  
 - 📫 Reach me on my [portfolio site](https://yassinedev-portfolio.vercel.app/)
 
 ---
