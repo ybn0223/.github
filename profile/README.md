@@ -52,7 +52,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YassineBenmendour&theme=darkhub&no-bg=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ybn0223&theme=darkhub&no-bg=true&margin-w=15" />
 </p>
 
 ---
@@ -68,5 +68,5 @@
 ### 📊 Visitor Count
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YassineBenmendour&style=flat-square&color=blue" alt="Yassine's profile view count" />
+  <img src="https://komarev.com/ghpvc/?username=ybn0223&style=flat-square&color=blue" alt="Yassine's profile view count" />
 </p>
