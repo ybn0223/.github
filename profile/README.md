@@ -36,15 +36,15 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YassineBenmendour&show_icons=true&theme=radical" alt="Yassine's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ybn0223&show_icons=true&theme=radical" alt="Yassine's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YassineBenmendour&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=ybn0223&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YassineBenmendour&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ybn0223&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
