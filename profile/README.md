@@ -9,9 +9,6 @@
   <a href="https://yassinedev-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-yellow?style=for-the-badge&logo=vercel" alt="Portfolio Badge"/>
   </a>
-  <a href="mailto:yassineben-2004@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail" alt="Email Badge"/>
-  </a>
 </p>
 
 ---
